@@ -1,4 +1,4 @@
-# Dispensador de Agua Automatizado
+# 🚰 Dispensador de Agua Automatizado 🚰
 Electrónica Digital y Microprocesadores
 
 Proyecto final
